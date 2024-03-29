@@ -3,6 +3,20 @@
     "configurations": [
       {
         "type": "java",
+        "name": "AdapterPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Adapter.AdapterPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "PrototypePatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Prototype.PrototypePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "BuilderPatternDemo",
         "request": "launch",
         "mainClass": "org.example.Builder.BuilderPatternDemo",
