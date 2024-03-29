@@ -3,6 +3,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "BridgePatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Bridge.BridgePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "AdapterPatternDemo",
         "request": "launch",
         "mainClass": "org.example.Adapter.AdapterPatternDemo",
