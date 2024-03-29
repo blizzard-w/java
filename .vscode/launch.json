@@ -3,9 +3,16 @@
     "configurations": [
       {
         "type": "java",
+        "name": "BuilderPatternDemo",
+        "request": "launch",
+        "mainClass": "org.example.Builder.BuilderPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "Debug (Launch)",
         "request": "launch",
-        "mainClass": "org.example.Main",
+        "mainClass": "org.example.Main"
       }
     ]
   }
